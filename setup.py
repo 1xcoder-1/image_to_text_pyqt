@@ -15,7 +15,7 @@ setup(
     license='MIT',
     packages=find_packages(),
     description='PyQt GUI example of image to text using image-to-text model',
-    url='https://github.com/1xcoder-1/pyqt-image-to-text.git',
+    url='https://github.com/1xcoder-1/image_to_text_pyqt.git',
     long_description_content_type='text/markdown',
     long_description=long_description,
     install_requires=[
